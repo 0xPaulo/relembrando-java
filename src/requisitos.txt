@@ -1,0 +1,26 @@
+atividade
+
++numConta
+#tipo
+- dono
+- saldo
+-status
+
+abrirConta()
+fecharConta()
+depositar()
+sacar()
+pegarMensal() 
+todos get e set
+
+toda vez que abrir cum conta o status vai ta como falso e 0 de saldo
+
+2 tipos de conta
+quando abrir conta mudar status
+se abriu conta cc 50
+se abriu cp 150
+pra fechar a conta nao pode ter dinheiro nem debito
+depositar so se estiver aberta
+pra sacar tambem
+nao posso sacar mais que a minha conta tem
+pagar mensalidade
